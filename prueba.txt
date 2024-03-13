@@ -1,1 +1,2 @@
-esta es una prueba para crear un repositorio en gib
+este es un cambio que hice en git 
+esta es una linea creada
